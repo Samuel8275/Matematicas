@@ -2,7 +2,7 @@
 
 ## Aritmetica:
 
-La aritmetica es la base de las matematicas y consiste en operar con numeros enteros, fracciones, potencias y radicales.
+La aritmetica es la base de las matematicas y consiste en operar con numeros enteros, fracciones, potencias, radicales y con logaritmos.
 
 ### Operaciones con numeros enteros
 
