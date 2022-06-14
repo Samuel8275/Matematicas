@@ -76,3 +76,10 @@ Ley de los Signos:
 - 12 / (-6) + 2 * (-3) = -2 + (-6) = -8
 - -121 / (-11) * [ 4 - 10 / (-2) ] = 11 * [ 4 + 5 ] = 11 * 9 = 99
 - { 3 + 12 / (-2) * [ 1 + 25 / 5 ] } * (-1) = { 3 - 6 * [ 1 + 5 ] } * (-1) = { 3 - 6 * 6} * (-1) = (3 - 36) * (-1)= = -33 * (-1) = 33
+
+### Operaciones Con Fracciones
+
+#### Representacion Fracciones:
+
+
+![Fracciones](https://tablademultiplicar.b-cdn.net/wp-content/uploads/2020/04/fracciones.png)
