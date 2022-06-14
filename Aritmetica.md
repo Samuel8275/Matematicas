@@ -100,3 +100,24 @@ Para simplificar tienes que antes saber factorizar numeros.
 - 8/4 = 2 x 4/2 x 2 = 4/2 = 2 x 2/2 = 2
 - 6/21 = 3 x 2/ 7 x 3 = 2/7
 - 200/500 = 2/5
+
+### Fracciones Equivalentes
+
+podemos transformar una fraccion en otra que sea totalmente equivalente multiplicando el numerador y el denominador por el mismo numero.
+
+### Ejemplos:
+
+- 8/4 = 8 x 2/4 x 2 = 16/8
+- 2/3 = 2 x 2/3 x 2 = 4/6
+- 5/10 = 5 x 10/10 x 10 = 50/100
+
+### Dos Fracciones Con El Mismo Denominador
+
+Esto que acabamos de ver nos sirve para conseguir que dos fracciones con distinto denominador tengan el mismo.
+
+### Ejemplo:
+
+Quiero que 4/6 y 3/2 tengan el mismo denominador:
+
+- 4 x 2/6 x 2 = 8/12
+- 3 x 6/2 x 6 = 18/12
