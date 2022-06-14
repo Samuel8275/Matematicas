@@ -99,3 +99,4 @@ Para simplificar tienes que antes saber factorizar numeros.
 - 10/12 = 5 x 2/6 x 2 = 5/6
 - 8/4 = 2 x 4/2 x 2 = 4/2 = 2 x 2/2 = 2
 - 6/21 = 3 x 2/ 7 x 3 = 2/7
+- 200/500 = 2/5
