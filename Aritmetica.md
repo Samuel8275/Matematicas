@@ -83,3 +83,19 @@ Ley de los Signos:
 
 
 ![Fracciones](https://tablademultiplicar.b-cdn.net/wp-content/uploads/2020/04/fracciones.png)
+
+### Simplificacion De Fracciones
+
+Para simplificar tienes que antes saber factorizar numeros.
+
+### Ejemplo Fractorizar:
+
+- 10 = 5 x 2
+- 8 = 4 x 2 = 2 x 2 x 2
+- 5 = 5
+
+### Simplificacion de fracciones:
+
+- 10/12 = 5 x 2/6 x 2 = 5/6
+- 8/4 = 2 x 4/2 x 2 = 4/2 = 2 x 2/2 = 2
+- 6/21 = 3 x 2/ 7 x 3 = 2/7
