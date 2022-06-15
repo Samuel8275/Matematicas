@@ -121,3 +121,17 @@ Quiero que 4/6 y 3/2 tengan el mismo denominador:
 
 - 4 x 2/6 x 2 = 8/12
 - 3 x 6/2 x 6 = 18/12
+
+### Sumas Y Restas De Fracciones
+
+#### Sumas Mismo Denominador
+
+- 7/4 + 2/4 = 9/4
+- 1/5 + 6/5 = 7/5
+- 3/3 + 3/3 = 6/3
+
+#### Restas Mismo Denominador
+
+- 7/3 - 5/3 = 2/3
+- 8/8 - 8/8 = 0/8 = 0
+- 4/2 - 6/2 = -2/2 = -1
