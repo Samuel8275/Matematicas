@@ -8,7 +8,7 @@ pueda dar una aportacion, sobre fallos, dudas o cualquier cosa.
 
 Aqui dejare agradecimientos a las personas que de alguna manera me han ayudado a crear este repositorio.
 
-Dar las gracias al canal de **matematicas con juan** ya que bastante informacion la he sacado de sus video.
+Dar las gracias al canal de [Matematicas con Juan](https://www.youtube.com/c/Matem%C3%A1ticasconJuan "Matematicas con Juan") ya que bastante informacion la he sacado de sus video.
 
 
 
