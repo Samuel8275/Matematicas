@@ -10,6 +10,8 @@ pueda dar una aportacion, sobre fallos, dudas o cualquier cosa.
 - Aritmetica Parte 2: 🚫
 - Geometria: 🚫
 - Calculo: 🚫 
+- Probabilidad y Estadistica: 🚫
+- Algebra: 🚫
 
 ## Agradecimientos
 
