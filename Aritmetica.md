@@ -146,6 +146,18 @@ Quiero que 4/6 y 3/2 tengan el mismo denominador:
 - 8/2 - 6/4 = 8 x 2/2 x 2 - 6/4 = 16/4 - 6/4 = 10/4
 - 10/5 - 4/6 = 10 x 6/5 x 6 - 4 x 5/6 x 5 = 60/35 - 20/35 = 40/35
 
-### Combinacion Sumas Y Restas
+#### Combinacion Sumas Y Restas
 
 - 1/6 - 7/2 + 5/3 = 1/2 x 3 - 7 x 3/2 x 3 + 5 x 2/3 x 2 = 1/6 - 21/6 + 10/6 = -10/6 = -5/3
+
+#### Multiplicaciones Con Fracciones
+
+- 3/5 x 9/7 = 3 x 9/7 x 5 = 27/35
+- 9/4 x 2/27 = 9 x 2/4 x 27 = 3 x 3 x 2/2 x 2 x 3 x 3 x 3 = 1/6
+- -3/7 x (-2)/4 x (-1)/3 = -3 x (-2) x (-1)/7 x 2 x 2 x 3 = -1 x (-1) x (-1)/14 = -1/14
+
+#### Divisiones Con Fracciones
+
+- 5/3 : 7/4 = 5/3 x 4/7 = 5 x 4/7 x 3 = 20/21
+- -4/2 : 1/3 = -4/2 x 3/1 = -4 x 3/2 x 1 = -12/2
+- 3/2 : 7/11 = 3/2 x 11/7 = 3 x 11/ 2 x 7 = 33/14
