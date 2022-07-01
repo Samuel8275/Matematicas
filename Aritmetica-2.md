@@ -40,11 +40,11 @@ La aritmetica es la base de las matematicas y consiste en operar con numeros ent
 
 ## Radicales
 
-### Transformar radicales a potencias
+### Transformar raizes a potencias
 
 - √2 = 2^1/2
-- √8 = 8^1/2
-- √100 = 100^1/2
+- 3^√4 = 4^1/3
+- 100^√5 = 5^1/100
 
 ### Multiplicacion
 
@@ -52,3 +52,6 @@ La aritmetica es la base de las matematicas y consiste en operar con numeros ent
 - √2 x √2 x √2 = 2^1/2x1/2x1/2 = 2^3/2
 - √3 x √3 = 3^1/2 x 3^1/2 = 3^1/2+1/2 = 3^1 = 3
 - √2^5 x √2^3 = (2^5)^1/2 x (2^3)^1/2 = (2^5x1/2) x (2^3x1/2) = 2^5/2 x 2^3/2 = 2^5/2+3/2 = 2^8/2 = 2^4
+- 3^√2 x √2 = 2^1/3 x 2^1/2 = 2^1/3+1/2 = 2^2/6+3/6 = 2^5/6
+
+
