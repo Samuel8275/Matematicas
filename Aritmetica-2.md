@@ -37,3 +37,18 @@ La aritmetica es la base de las matematicas y consiste en operar con numeros ent
 - (2^3)^2 = 2^3x2 = 2^6
 - (2^4)^1000 = 2^4x1000 = 2^4000
 - (2^100)^5 = 2^100x5 = 2^500
+
+## Radicales
+
+### Transformar radicales a potencias
+
+- √2 = 2^1/2
+- √8 = 8^1/2
+- √100 = 100^1/2
+
+### Multiplicacion
+
+- √2 x √2 = 2^1/2 x 2^1/2 = 2^1/2+1/2 = 2^1 = 2
+- √2 x √2 x √2 = 2^1/2x1/2x1/2 = 2^3/2
+- √3 x √3 = 3^1/2 x 3^1/2 = 3^1/2+1/2 = 3^1 = 3
+- √2^5 x √2^3 = (2^5)^1/2 x (2^3)^1/2 = (2^5x1/2) x (2^3x1/2) = 2^5/2 x 2^3/2 = 2^5/2+3/2 = 2^8/2 = 2^4
