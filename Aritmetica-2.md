@@ -40,6 +40,22 @@ La aritmetica es la base de las matematicas y consiste en operar con numeros ent
 
 ## Radicales
 
+### Resolver raizes
+
+- √4 = 2 
+- √9 = 3
+- √16 = 4
+- √25 = 5
+- √36 = 6
+
+### Sumas
+
+- √4 + √25 = 2 + 5 = 7
+- √25 + √36 = 5 + 6 = 11
+- √12 + √75 = √2x2x3 + √5x5x3 = √4x3 + √25x3 = √4 x √3 + √25 x √3 = 2 x √3 + 5 x √3 = 7x√3
+- √45 + √18 = √3x3x5 + √3x3x2 = √9x5 + √9x2 = √9 x √5 + √9 x √2 = 3 x √5 + 3 x √2 = 3(√5 + √2)
+- √8 + √32 = √2^3 + √2^5 = √4x2 + √16x2 = √4 x √2 + √16 x √2 = 2 x √2 + 4 x √2 = 6x√2
+
 ### Transformar raizes a potencias
 
 - √2 = 2^1/2
