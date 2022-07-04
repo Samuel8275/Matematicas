@@ -43,3 +43,20 @@ El algebra es una rama de las matematicas en las que se estudian las operaciones
 - 2x + 3x^3 = 3x^3 + 0x^2 + 2x
 - x^3 - 7x + 2x^2 = x^3 + 2x^2 - 7x 
 - -y^3 - y^2 + 4y^4 - 8 = 4y^4 - y^3 - y^2 + 0y - 8
+
+### Sumas
+
+1.Ejercicio 1:
+1.  p(x) = 2x + 5 | f(x) = 5x + 4
+1. p(x) + f(x)
+1. 2x + 5 + 5x + 4 = 2x + 5x + 5 + 4 = 7x + 9
+
+1.Ejercicio 2:
+1.  p(x) = 6x - 8x^2 + 6 | f(x) = 5x^3 - 6
+1. p(x) + f(x)
+1. 6x - 8x^2 + 6 + 5x^3 - 6 = 0x^3 - 8x^2 + 6x + 6 + 5x^3 + 0x2 + 0x - 6 = 5x^3 - 8x^2 + 6x  
+
+1.Ejercicio 3:
+1.  p(x) = 20xy + 5 | f(x) = 50xy + 4
+1. p(x) + f(x)
+1. 20xy + 50 + 50xy + 40 = 20xy + 50xy + 50 + 40 = 70xy + 90
